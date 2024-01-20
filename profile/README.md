@@ -1,11 +1,11 @@
-<center>
+<div align="center">
 <h1>This is a little showcase</h1>
 Click on the image for video. <a href="https://github.com/ccanvas/libccanvas/tree/master/examples/explorer">How this is made.</a>
 
 [![](https://gmtex.siri.sh/api/usercontent/v1/file/id/1/tex/Dump/Showcases/ccanvas-explorer.png)](https://gmtex.siri.sh/fs/1/Dump/Showcases/ccanvas-explorer.webm)
 
 <i>A fresh approach to TUI development that promotes efficiency and code reusability.</i>
-</center>
+</div>
 
 ## Why?
 
@@ -45,4 +45,7 @@ Meanwhile, you can check out the minimal apps in [**`libccanvas/examples`**](htt
 
 ---
 
-<center><code><3</code></center>
+<div align="center">
+  <code><3</code>
+</div>
+
