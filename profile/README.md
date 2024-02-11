@@ -34,12 +34,15 @@ At its core, ccanvas is a program that provides a standardised interface for eas
 
 Components are the building blocks of a ccanvas program. Here are some general purpose components.
 
+- [**`ccanvas-layout`**](https://github.com/ccanvas/ccanvas-layout) - component layout manager.
 - [**`ccanvas-quit`**](https://github.com/ccanvas/ccanvas-quit) - configurable quitting handler.
 - [**`ccanvas-saver`**](https://github.com/ccanvas/ccanvas-saver) - terminal size limiter/screen saver.
 
 ### Apps (component bundles)
 
 A ccanvas reimplementation of [**`youtube-tui`**](https://github.com/Siriusmart/youtube-tui/) is currently being developed.
+
+![image](https://github.com/ccanvas/.github/assets/71584876/9d48f08a-8e1d-493f-9fff-06c1494abf19)
 
 Meanwhile, you can check out the minimal apps in [**`libccanvas/examples`**](https://github.com/ccanvas/libccanvas/tree/master/examples) to get a feel of its full power.
 
