@@ -37,6 +37,8 @@ Components are the building blocks of a ccanvas program. Here are some general p
 - [**`ccanvas-layout`**](https://github.com/ccanvas/ccanvas-layout) - component layout manager.
 - [**`ccanvas-quit`**](https://github.com/ccanvas/ccanvas-quit) - configurable quitting handler.
 - [**`ccanvas-saver`**](https://github.com/ccanvas/ccanvas-saver) - terminal size limiter/screen saver.
+- [**`ccanvas-scroll`**](https://github.com/ccanvas/ccanvas-scroll) - scrolling text display.
+- [**`ccanvas-solid`**](https://github.com/ccanvas/ccanvas-solid) - debug component to fill screen with the same character.
 
 ### Apps (component bundles)
 
